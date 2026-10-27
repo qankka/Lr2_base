@@ -1,1 +1,1 @@
-# Lr2_base
+[Мой профиль на Codewars](https://www.codewars.com/users/qankka)
